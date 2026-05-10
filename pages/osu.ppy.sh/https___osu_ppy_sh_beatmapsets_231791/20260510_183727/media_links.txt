@@ -1,0 +1,4 @@
+https://osu.ppy.sh/images/favicon/apple-touch-icon.png
+https://osu.ppy.sh/images/favicon/favicon-16x16.png
+https://osu.ppy.sh/images/favicon/favicon-32x32.png
+https://osu.ppy.sh/images/favicon/safari-pinned-tab.svg
